@@ -5,14 +5,14 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=magmax007/predictionapi
+dockerpath=vivekgouda/predictionapi
 
 # Step 2:  
 # Authenticate & tag
 
-docker login --username=magmax007
+docker login --username=vivekgouda
 
-docker tag 1fac12802910 magmax007/predictionapi:firsttryingpredictionapi
+docker tag 1bcf12802910 vivekgouda/predictionapi:secondapi
 
 echo "Docker ID and Image: $dockerpath"
 

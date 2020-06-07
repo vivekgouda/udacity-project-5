@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/magmax007/UdacityCDProject5.svg?style=svg)](https://circleci.com/gh/magmax007/UdacityCDProject5)
+[![CircleCI]()
 
 ## Project goal
 ----------------------
