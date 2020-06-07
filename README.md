@@ -1,4 +1,4 @@
-[![CircleCI]()
+[![CircleCI](https://circleci.com/gh/vivekgouda/udacity-project-5/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/vivekgouda/udacity-project-5/tree/circleci-project-setup)
 
 ## Project goal
 ----------------------
